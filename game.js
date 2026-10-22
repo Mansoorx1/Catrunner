@@ -32,7 +32,7 @@ let dino = {
 // Speed settings (tweak these to change how the game feels)
 const START_SPEED = 5;     // obstacle speed at the start
 const MAX_SPEED = 152;      // speed never goes above this
-const SPEED_RAMP = 0.5;   // speed gained per point of score
+const SPEED_RAMP = 0.2;   // speed gained per point of score
 
 // Game variables
 let obstacles = [];
